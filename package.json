@@ -1,0 +1,17 @@
+{
+  "name": "pouchdb-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.8.5",
+    "pouchdb": "^5.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
